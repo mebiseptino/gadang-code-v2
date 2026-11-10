@@ -14,7 +14,7 @@ Features:
 - **Single-Flight Pattern:** 99% API cost saving - $150 credits = 149K chats
 
 ### Built With Meta
-- Llama 4 API for chat
+- Llama 4 API for chat 
 - SAM 3.1 for detection
 - Llama Image for Batik pattern
 
