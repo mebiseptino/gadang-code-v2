@@ -19,7 +19,7 @@ Features:
 - Llama Image for Batik pattern
 
 ### Team
-Mebi Septino - Padang, Indonesia (GMT+7)
+Mebi Septino - Padang,Indonesia (GMT+7)
 Indie Developer Track
 
 #meta-hackathon #buildforyourworld
